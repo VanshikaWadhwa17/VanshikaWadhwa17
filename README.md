@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VanshikaWadhwa17
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Frontend Development and Machine Learning, AI
+- 🌱 I’m currently learning Nuxt and working on projects in Python and R programming.
 - 💞️ I’m looking to collaborate on a full stack project with Vue/React.js as frontend and Node.js+Express.js at backend
 - 📫 How to reach me : email - vansforbusiness@gmail.com
 - 😄 Pronouns: she/her
